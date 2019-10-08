@@ -73,6 +73,7 @@ target/
 
 # VSCode settings
 .vscode/
+.vs/
 settings.json
 
 # local files
